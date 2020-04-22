@@ -1,6 +1,6 @@
 ## AI based IOT Smart Water quality detection in home water purifier
 
-##### According to the World Health Organization, more than 2 billion people are still being affected by contaminated water. And while we think it’s safe in the United States, the Flint, Michigan water crisis has proven to us that even in first world country like the US, we still face water safety issues. In india water quality monitoring is a big issue so we built an AI and IoT based water quality monitoring system.
+##### According to the World Health Organization, more than 2 billion people are still being affected by contaminated water.. In india water quality monitoring is a big issue so we built an AI and IoT based water quality monitoring system.
 
 ##### Traditional method
 
